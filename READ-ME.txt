@@ -1,9 +1,9 @@
-  =>  Template Name    : Stocker - Stock Market Website Template
+  =>  Project Name     : ALL JOB MITRA - Hyperlocal Service Marketplace Template
 
-  =>  Template Link    : https://htmlcodex.com/stock-market-website-template
+  =>  Project Link     : ALL JOB MITRA Brand Transformation
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+  =>  Project License  : https://htmlcodex.com/license (or read the LICENSE.txt file)
 
-  =>  Template Author  : HTML Codex
+  =>  Project Owner     : ALL JOB MITRA | Param Shelke
 
-  =>  Author Website   : https://htmlcodex.com
+  =>  Website         : https://alljobmitra.com
